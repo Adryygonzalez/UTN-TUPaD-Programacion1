@@ -7,5 +7,6 @@ Mis Trabajos Prácticos de Programación 1
 - Comisión: 6
 - Tutora: Flor Gubiotti
 
-Descripción de mi repositorio
-Aca subo todos mis trabajos practicos de cada unidad de la materia programación-1
+## Descripción de mi repositorio
+- Aca subo todos mis trabajos practicos 
+de cada unidad de la materia programación-1
