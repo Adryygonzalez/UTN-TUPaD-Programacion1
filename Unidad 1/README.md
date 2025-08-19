@@ -6,3 +6,8 @@ Mis Trabajos Prácticos de Programación 1
 - Alumno: Adrian Gonzalez
 - Comisión: 6
 - Tutora: Flor Gubiotti
+
+## Descripción de mi repositorio
+
+- Aca subo todos mis trabajos practicos de cada unidad
+de la materia programación-1
