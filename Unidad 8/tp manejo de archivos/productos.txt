@@ -1,0 +1,4 @@
+tomate,120,40
+lechuga,150,30
+cebolla,520,38
+leche 2600 70
