@@ -6,4 +6,27 @@ import funciones
 
 funciones.mostrar_productos()
 
+#3. Agregar productos desde teclado: Modificar el programa para que luego de mostrar los productos, 
+#le pida al usuario que ingrese un nuevo producto (nombre, precio, cantidad)
+# y lo agregue al archivo sin borrar el contenido existente.
+
 funciones.añadir_producto()
+
+#4.Cargar productos en una lista de diccionarios: Al leer el archivo, cargar los datos en una lista llamada productos,
+#donde cada elemento sea un diccionario con claves: nombre, precio, cantidad.
+
+productos=funciones.cargar_listas()
+#5. Buscar producto por nombre: Pedir al usuario que ingrese el nombre de un producto. 
+#Recorrer la lista de productos y, si lo encuentra, mostrar todos sus datos.
+#Si no existe, mostrar un mensaje de error.
+
+funciones.buscar_producto(productos)
+
+#6. Guardar los productos actualizados: Después de haber leído, buscado o agregado productos, 
+#sobrescribir el archivo productos.txt escribiendo nuevamente todos los productos actualizados desde la lista.
+
+funciones.añadir_producto()
+
+productos=funciones.cargar_listas()
+
+funciones.sobreescribir(productos)
